@@ -1,1 +1,2 @@
 # Hotel-Revenue-Analysis_Project
+This Power BI project showcases an interactive Hotel Revenue Dashboard designed to analyze key business metrics such as occupancy rate, average daily rate (ADR), revenue per available room (RevPAR), and total revenue. The dashboard provides insights through dynamic visuals, filters by date, room type, and booking source, helping hotel managers make data-driven decisions.
